@@ -1,0 +1,35 @@
+﻿<Page x:Class="Veterinaria.formulario"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Veterinaria"
+      mc:Ignorable="d" 
+      d:DesignHeight="764.121" d:DesignWidth="771.875"
+      Title="formulario">
+
+    <Grid  Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="0" Grid.Row="0">Nombre</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="0" Name="txtnombre"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="1">Apellido</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="txtapellido"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="2">Telefono</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="2" Name="txttelefono"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="3">Mail</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="3" Name="txtmail"></TextBox>
+        <TextBlock Grid.Column="0" Grid.Row="1">Direccion</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="txtdireccion"></TextBox>
+        <Button Grid.Row="5" Grid.Column="1" Click="Button_Click" >Guardar</Button>
+
+    </Grid>
+</Page>

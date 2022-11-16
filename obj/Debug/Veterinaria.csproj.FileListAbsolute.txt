@@ -1,0 +1,74 @@
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\LoginView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\App.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria_MarkupCompile.cache
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria_MarkupCompile.lref
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\LoginView.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.g.resources
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\MainView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\MainView.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Styles\UIColors.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\App.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CopyComplete
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\CalendarView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\HomeView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\SettingsView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\CustomerView.g.cs
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\CalendarView.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\CustomerView.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\HomeView.baml
+C:\Users\feder\source\repos\Veterinaria\Veterinaria\obj\Debug\View\SettingsView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Styles\UIColors.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\CalendarView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\CustomerView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\HomeView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\LoginView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\MainView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\SettingsView.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\App.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria_MarkupCompile.cache
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria_MarkupCompile.lref
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\App.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\CalendarView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\CustomerView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\HomeView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\LoginView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\MainView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\View\SettingsView.baml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.g.resources
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.Properties.Resources.resources
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.csproj.GenerateResource.cache
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.csproj.CopyComplete
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\Veterinaria_Content.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\formulario.g.cs
+C:\Users\user\Desktop\veterinaria\git fede 2\Veterinaria-master\Veterinaria\obj\Debug\formulario.baml
