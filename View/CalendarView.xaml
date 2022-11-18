@@ -7,6 +7,8 @@
               xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+	<!--        /// TURNOS    -->
+	
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
@@ -40,8 +42,9 @@
                             Content="Guardar"                            
                             FontSize="12"
                             FontFamily="Montserrat"
-                            Cursor="Hand">
-                    <!--         BorderThickness="0" Click="Button_Click"
+                            Cursor="Hand"
+					        BorderThickness="0"           Click="Button_Click">
+                  <!--     
                       Foreground="White" Click="Button_Click"
                    VerticalAlignment="Top" Click="Button_Click"   -->
                 <Button.Style>
@@ -87,11 +90,11 @@
                 </Grid.RowDefinitions>
 
                 <TextBlock Grid.Column="0" Grid.Row="0">Nombre</TextBlock>
-                <TextBox Grid.Column="1" Grid.Row="0" Name="txtnombre"></TextBox>
+                <TextBox Grid.Column="1" Grid.Row="0" Name="cliente"></TextBox>
                 <TextBlock Grid.Column="0" Grid.Row="1">Fecha</TextBlock>
-                <TextBox Grid.Column="1" Grid.Row="1" Name="txtapellido"></TextBox>
+                <TextBox Grid.Column="1" Grid.Row="1" Name="fecha"></TextBox>
                 <TextBlock Grid.Column="0" Grid.Row="2">Servicio</TextBlock>
-                <TextBox Grid.Column="1" Grid.Row="2" Name="txttelefono"></TextBox>
+                <TextBox Grid.Column="1" Grid.Row="2" Name="servicio"></TextBox>
                 
 
 

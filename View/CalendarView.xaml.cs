@@ -24,5 +24,30 @@ namespace Veterinaria.View
         {
             InitializeComponent();
         }
+        //
+                    public static object StaticMainFrame { get; internal set; }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            
+                using (Model.wpfcrudEntities3 db1 = new Model.wpfcrudEntities3())
+                {
+                    var oPerson = new Model.turno();
+                    oPerson.cliente = cliente.Text;
+                    oPerson.fecha = fecha.Text;                    
+                    oPerson.servicio = servicio.Text;
+                    
+
+                    db1.turno.Add(oPerson);
+                    db1.SaveChanges();
+
+                    
+                
+            }
+        }
+
+
+        // 
     }
 }
